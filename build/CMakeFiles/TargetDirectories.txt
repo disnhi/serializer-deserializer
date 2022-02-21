@@ -1,0 +1,3 @@
+/Users/nhiphan/Desktop/Networking/cps373-assignments/01-serializer/build/CMakeFiles/main.dir
+/Users/nhiphan/Desktop/Networking/cps373-assignments/01-serializer/build/CMakeFiles/edit_cache.dir
+/Users/nhiphan/Desktop/Networking/cps373-assignments/01-serializer/build/CMakeFiles/rebuild_cache.dir
